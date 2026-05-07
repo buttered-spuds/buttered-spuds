@@ -70,4 +70,3 @@ I lead test effort across teams — aligning automation strategy with business r
 
 ---
 
-<img src="https://github-readme-stats.vercel.app/api?username=buttered-spuds&amp;theme=gotham&amp;show_icons=true">
